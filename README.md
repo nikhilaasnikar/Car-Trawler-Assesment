@@ -1,8 +1,5 @@
 
-
-
-
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/nikhilaasnikar/]
+[https://www.linkedin.com/in/nikhilaasnikar/]
 
 
 
@@ -40,7 +37,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Created a pseudo User Interface to emulate a mobile application which will display vehicles card in vertical representation using react the application is compatible with
 both mobile and desktop devices 
@@ -81,7 +77,7 @@ Now run the following commands and you should be good to go 💪🏼
 
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install 
   ```
 
 * npm
@@ -97,15 +93,6 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- CONTACT -->
