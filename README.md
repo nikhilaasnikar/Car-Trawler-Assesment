@@ -51,7 +51,7 @@ Key Features:
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * [React](https://reactjs.org/)
 * [Javascript](https://www.javascript.com/)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -68,7 +68,7 @@ Follow these instructions to run the demo app locally
   ```sh
   git clone https://github.com/nikhilaasnikar/Car-Trawler-Assesment.git
   ```
-* git
+* terminal
   ```sh
   cd Car-Trawler-Assesment
   ```
