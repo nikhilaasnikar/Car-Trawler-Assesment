@@ -12,6 +12,7 @@ Key Features:
 * Default order of vehiles is sorted by “ETA” in ascending order.
 * When a user tap on a product block, application displays a screen showing informationfor of that product : Implemented using React Router
 * The application allows user to toggle between light and dark theme : Implemented using React Context
+* Implemented Filter feature to filter the list of vehicles by seating capacity.
   
 
 ### Built With
@@ -44,7 +45,10 @@ Now run the following commands and you should be good to go 💪🏼
   ```sh
   npm install 
   ```
-
+* npm
+  ```sh
+  npm install --save react-router-dom 
+  ```
 * npm
   ```sh
   npm start
